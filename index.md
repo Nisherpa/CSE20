@@ -9,8 +9,7 @@ You should be familiar with
  - string[k]- accessing a string character by index
  - string1 < string2 - string comparison
 
-   Built-In String Functions
-   
-  - len() - Returns the length, the number of characters in the string
-    - Example: len("Python")->6
+Built-In String Functions
+ - len() - Returns the length, the number of characters in the string
+   - Example: len("Python")->6
   
