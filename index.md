@@ -1,4 +1,4 @@
-#Compsci Lecture 9 notes
+# Compsci Lecture 9 notes
 
-##Video 1: String Manipulations
+## Video 1: String Manipulations
 
