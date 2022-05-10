@@ -11,7 +11,7 @@ You should be familiar with
 
 Built-In String Functions
  1.len() 
-   - Returns the length, the total number of characters in the string, inlcuding white spaces 
+   :Returns the length, the total number of characters in the string, inlcuding white spaces 
    - Example: 
      -len("python")->6
      -len("It's done!")-> 10
@@ -25,11 +25,11 @@ Built-In String Functions
      -max("python")->'y' 
      -max("It's done!")-> 't'
      
- String Method Split()
- -takes in a delimeter(separator) as the parameter
- -Dividies the string into several substrings. It divides strings into parts(tokens) according to the delimiter positions in the string and returns a list of the strings(tokens).
- -Delimeter is an arbitrary chosen string (usually one character) that determines the boundary of tokens
- -Example:
-  -"a::b::c".split("::")-> ["a","b","c"]
+String Method Split()
+-takes in a delimeter(separator) as the parameter
+-Dividies the string into several substrings. It divides strings into parts(tokens) according to the delimiter positions in the string and returns a list of the strings(tokens).
+-Delimeter is an arbitrary chosen string (usually one character) that determines the boundary of tokens
+-Example:
+ ->"a::b::c".split("::")-> ["a","b","c"]
  
   
