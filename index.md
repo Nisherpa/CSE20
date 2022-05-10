@@ -5,5 +5,5 @@
 you should be familiar with
  - str()
  - string1 + string2 - string concatenation
- - > string*n - string repetiton
+ > string*n - string repetiton
   
