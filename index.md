@@ -6,4 +6,6 @@ you should be familiar with
  - str()
  - string1 + string2 - string concatenation
  - string*n - string repetiton
+ - string[k]- accessing a string character by index
+ - string1 < string2 - string comparison
   
