@@ -11,9 +11,9 @@ You should be familiar with
 
 Built-In String Functions
 
- 1.len() 
-   -Returns the length, the total number of characters in the string, inlcuding white spaces 
-   - Example: 
+  1.len() 
+    - Returns the length, the total number of characters in the string, inlcuding white spaces 
+    - Example: 
      -len("python")->6
      -len("It's done!")-> 10
      
