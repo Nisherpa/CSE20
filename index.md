@@ -11,13 +11,13 @@ You should be familiar with
 
 Built-In String Functions
 
-1.len() 
+ 1.len() 
    -Returns the length, the total number of characters in the string, inlcuding white spaces 
    - Example: 
      -len("python")->6
      -len("It's done!")-> 10
      
-2.min()
+ 2.min()
    - Returns the character in the string with the lowest ASCII value
    - Example:
      -min("python")->'h' 
