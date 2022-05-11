@@ -10,6 +10,7 @@ You should be familiar with
  - string1 < string2 - string comparison
 
 Built-In String Functions
+
 1.len() 
    -Returns the length, the total number of characters in the string, inlcuding white spaces 
    - Example: 
