@@ -33,6 +33,6 @@ String Method Split()
 - Dividies the string into several substrings. It divides strings into parts(tokens) according to the delimiter positions in the string and returns a list of the strings(tokens).
 - Delimeter is an arbitrary chosen string (usually one character) that determines the boundary of tokens
 - Example:
+   '''
  - >"a::b::c".split("::")-> ["a","b","c"]
- 
-  
+   '''
